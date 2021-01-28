@@ -1,0 +1,15 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aakash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font": "0.0.4"
+  }
+}
